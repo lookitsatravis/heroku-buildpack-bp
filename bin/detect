@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Bandposters"
+exit 0
